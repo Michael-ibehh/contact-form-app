@@ -1,0 +1,15 @@
+# Terraform
+*.tfstate
+*.tfstate.*
+.terraform/
+.terraform.lock.hcl
+
+# Python
+*.pyc
+__pycache__/
+
+# Zip files
+*.zip
+
+# Env files
+.env
