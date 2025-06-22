@@ -2,21 +2,21 @@
 
 A fully serverless contact form built using:
 
-- ✅ Amazon S3 – static frontend hosting
-- ✅ API Gateway – HTTP endpoint
-- ✅ Lambda (Python) – backend logic
-- ✅ DynamoDB – data storage
-- ✅ Terraform – infrastructure as code
+- Amazon S3 – static frontend hosting
+- API Gateway – HTTP endpoint
+- Lambda (Python) – backend logic
+- DynamoDB – data storage
+- Terraform – infrastructure as code
 
-## 📁 Project Structure
+## Project Structure
 
 
-## 🚀 Features
+## Features
 - Serverless and cost-effective  
 - Data stored in DynamoDB  
 - Easy to extend with email alerts or dashboards  
 
 
-## 📣 Author
+## Author
 Michael Ibeh – [LinkedIn](https://linkedin.com/in/michael-ibeh-ify)
 
